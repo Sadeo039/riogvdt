@@ -1,0 +1,38 @@
+﻿{
+    "name": "railway",
+    "description": "x",
+    "keywords": ["x"],
+    "env": {
+        "AA": {
+            "description": "初阶用户",
+            "value": "如出现错误"
+        },
+        "AUUID": {
+            "description": "UUID的网站: https://www.uuidgenerator.net",
+            "value": "d1dd588d-5cea-4015-ac04-c2f321c03051"
+        },
+        "CADDYIndexPage": {
+            "description": "自定义参考",
+            "value": "https://github.com/AYJCSGM/mikutap/archive/master.zip"
+        },
+        "CONFIGCADDY": {
+            "description": "请勿修改",
+            "value": "https://raw.githubusercontent.com/Sadeo039/riogvdt/master/etc/Caddyfile"
+        },
+        "CONFIGXRAY": {
+            "description": "请勿修改",
+            "value": "https://raw.githubusercontent.com/Sadeo039/riogvdt/master/etc/wry.json"
+        },
+        "ParameterSSENCYPT": {
+            "description": "SS加密",
+            "value": "chacha20-ietf-poly1305"
+        },
+        "StoreFiles": {
+            "description": "自定义网络地址读取存储文件列表",
+            "value": "https://raw.githubusercontent.com/Sadeo039/riogvdt/master/etc/StoreFiles"
+        }
+    },
+    "website": "https://github.com/Sadeo039/riogvdt",
+    "repository": "https://github.com/Sadeo039/riogvdt",
+    "stack": "container"
+}
