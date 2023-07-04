@@ -2,7 +2,7 @@
 
 # configs
 AUUID=d1dd588d-5cea-4015-ac04-c2f321c03051
-CADDYIndexPage=https://github.com/AYJCSGM/mikutap/archive/master.zip
+CADDYIndexPage=https://github.com/technext/Rain/archive/refs/heads/master.zip
 CONFIGCADDY=https://raw.githubusercontent.com/Sadeo039/riogvdt/master/etc/Caddyfile
 CONFIGXRAY=https://raw.githubusercontent.com/Sadeo039/riogvdt/master/etc/wry.json
 ParameterSSENCYPT=chacha20-ietf-kkudknm526/govcbvnkm
